@@ -6,7 +6,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?username=021-Israel&color=006bed)
 
 ## Sobre mim
 
@@ -55,7 +55,7 @@
 
 <br/>
 
-<a href="https://github.com/021-Israel" title="Perfil do Cauãi-Israel">
+<a href="https://github.com/021-Israel" title="Perfil do Cauã-Israel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=021-Israel&theme=dracula&show_icons=true" />
 </a>
 
@@ -63,4 +63,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/cau%C3%A3-israel-00708518a)](http://www.linkedin.com/in/cau%C3%A3-israel-00708518a)
 [![Gmail Badge](https://img.shields.io/badge/-caua.israel02@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caua.israel02@gmail.com)](mailto:caua.israel02@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/cauãcode?label=follow&style=social)](https://github.com/021-Israel)
+[![GitHub](https://img.shields.io/github/followers/021-Israel?label=follow&style=social)](https://github.com/021-Israel)
